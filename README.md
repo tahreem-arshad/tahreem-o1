@@ -1,6 +1,6 @@
 # tahreem-o1
 hi
 # coding..eds
-# coding..edsusman
+# coding.sman
 # tahreem-is coding ...
 # tahreem-o1.......
